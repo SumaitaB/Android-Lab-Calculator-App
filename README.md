@@ -1,3 +1,4 @@
+# General Calculator App
 An easy to use everyday general calculator mobile app created using android studio in Java 
 
 Screenshot:
